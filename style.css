@@ -140,41 +140,41 @@ body {
     .card {
         margin: 30px auto 0;
         padding: 20px 15px;
-        /* تقليل padding */
+      
     }
 
     .weather h1 {
         font-size: 40px;
-        /* تقليل حجم الخط */
+    
     }
 
     .weather h2 {
         font-size: 24px;
-        /* تقليل حجم الخط */
+       
     }
 
     .humidity,
     .wind {
         font-size: 18px;
-        /* تقليل حجم الخط */
+       
     }
 
     .card .search input {
         font-size: 12px;
-        /* تقليل حجم الخط */
+     
         padding: 6px 10px;
-        /* تقليل padding */
+
     }
 
     .card .search button {
         width: 30px;
-        /* تقليل العرض */
+
         height: 30px;
-        /* تقليل الارتفاع */
+     
     }
 
     .weather .weather_icon {
         width: 80px;
-        /* تقليل حجم الأيقونة */
+     
     }
 }
